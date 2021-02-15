@@ -1,0 +1,5 @@
+D:\Projects\MAFD4202\A2-Item-List-ASasitharan\bin\x86\Debug\A2_Item_List_ASasitharan.exe
+D:\Projects\MAFD4202\A2-Item-List-ASasitharan\bin\x86\Debug\Program1.idy
+D:\Projects\MAFD4202\A2-Item-List-ASasitharan\obj\x86\Debug\A2_Item_List_ASasitharan.exe
+D:\Projects\MAFD4202\A2-Item-List-ASasitharan\obj\x86\Debug\Program1.idy
+D:\Projects\MAFD4202\A2-Item-List-ASasitharan\obj\x86\Debug\Program1.obj
